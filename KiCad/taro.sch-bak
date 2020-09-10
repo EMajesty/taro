@@ -1,0 +1,642 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Keebio:ProMicro U1
+U 1 1 5F5954A3
+P 2100 3650
+F 0 "U1" H 2100 4687 60  0000 C CNN
+F 1 "ProMicro" H 2100 4581 60  0000 C CNN
+F 2 "Keebio_Parts:ArduinoProMicro" H 2200 2600 60  0001 C CNN
+F 3 "" H 2200 2600 60  0000 C CNN
+	1    2100 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW2
+U 1 1 5F59626D
+P 4400 2300
+F 0 "SW2" H 4400 2585 50  0000 C CNN
+F 1 "SW_Push" H 4400 2494 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 4400 2500 50  0001 C CNN
+F 3 "~" H 4400 2500 50  0001 C CNN
+	1    4400 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 5F5979D1
+P 4400 2950
+F 0 "SW3" H 4400 3235 50  0000 C CNN
+F 1 "SW_Push" H 4400 3144 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 4400 3150 50  0001 C CNN
+F 3 "~" H 4400 3150 50  0001 C CNN
+	1    4400 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 5F597EE3
+P 4400 3600
+F 0 "SW4" H 4400 3885 50  0000 C CNN
+F 1 "SW_Push" H 4400 3794 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 4400 3800 50  0001 C CNN
+F 3 "~" H 4400 3800 50  0001 C CNN
+	1    4400 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 5F5984D4
+P 4400 4250
+F 0 "SW5" H 4400 4535 50  0000 C CNN
+F 1 "SW_Push" H 4400 4444 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 4400 4450 50  0001 C CNN
+F 3 "~" H 4400 4450 50  0001 C CNN
+	1    4400 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 5F598AA9
+P 5050 2300
+F 0 "SW6" H 5050 2585 50  0000 C CNN
+F 1 "SW_Push" H 5050 2494 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 5050 2500 50  0001 C CNN
+F 3 "~" H 5050 2500 50  0001 C CNN
+	1    5050 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 5F5993DA
+P 5050 2950
+F 0 "SW7" H 5050 3235 50  0000 C CNN
+F 1 "SW_Push" H 5050 3144 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 5050 3150 50  0001 C CNN
+F 3 "~" H 5050 3150 50  0001 C CNN
+	1    5050 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 5F599C3D
+P 5050 3600
+F 0 "SW8" H 5050 3885 50  0000 C CNN
+F 1 "SW_Push" H 5050 3794 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 5050 3800 50  0001 C CNN
+F 3 "~" H 5050 3800 50  0001 C CNN
+	1    5050 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 5F59A2FA
+P 5050 4250
+F 0 "SW9" H 5050 4535 50  0000 C CNN
+F 1 "SW_Push" H 5050 4444 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 5050 4450 50  0001 C CNN
+F 3 "~" H 5050 4450 50  0001 C CNN
+	1    5050 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW13
+U 1 1 5F59AB38
+P 5700 4250
+F 0 "SW13" H 5700 4535 50  0000 C CNN
+F 1 "SW_Push" H 5700 4444 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 5700 4450 50  0001 C CNN
+F 3 "~" H 5700 4450 50  0001 C CNN
+	1    5700 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW12
+U 1 1 5F59B4A2
+P 5700 3600
+F 0 "SW12" H 5700 3885 50  0000 C CNN
+F 1 "SW_Push" H 5700 3794 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 5700 3800 50  0001 C CNN
+F 3 "~" H 5700 3800 50  0001 C CNN
+	1    5700 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW11
+U 1 1 5F59BA39
+P 5700 2950
+F 0 "SW11" H 5700 3235 50  0000 C CNN
+F 1 "SW_Push" H 5700 3144 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 5700 3150 50  0001 C CNN
+F 3 "~" H 5700 3150 50  0001 C CNN
+	1    5700 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW10
+U 1 1 5F59C0A5
+P 5700 2300
+F 0 "SW10" H 5700 2585 50  0000 C CNN
+F 1 "SW_Push" H 5700 2494 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 5700 2500 50  0001 C CNN
+F 3 "~" H 5700 2500 50  0001 C CNN
+	1    5700 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 5F5A1EDF
+P 4600 2450
+F 0 "D1" V 4646 2371 50  0000 R CNN
+F 1 "D" V 4555 2371 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 4600 2450 50  0001 C CNN
+F 3 "~" H 4600 2450 50  0001 C CNN
+	1    4600 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 5F5A3635
+P 4600 3100
+F 0 "D2" V 4646 3021 50  0000 R CNN
+F 1 "D" V 4555 3021 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 4600 3100 50  0001 C CNN
+F 3 "~" H 4600 3100 50  0001 C CNN
+	1    4600 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D3
+U 1 1 5F5A3E36
+P 4600 3750
+F 0 "D3" V 4646 3671 50  0000 R CNN
+F 1 "D" V 4555 3671 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 4600 3750 50  0001 C CNN
+F 3 "~" H 4600 3750 50  0001 C CNN
+	1    4600 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 5F5A4452
+P 4600 4400
+F 0 "D4" V 4646 4321 50  0000 R CNN
+F 1 "D" V 4555 4321 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 4600 4400 50  0001 C CNN
+F 3 "~" H 4600 4400 50  0001 C CNN
+	1    4600 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 5F5A495B
+P 5250 4400
+F 0 "D8" V 5296 4321 50  0000 R CNN
+F 1 "D" V 5205 4321 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 5250 4400 50  0001 C CNN
+F 3 "~" H 5250 4400 50  0001 C CNN
+	1    5250 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 5F5A4F22
+P 5250 3750
+F 0 "D7" V 5296 3671 50  0000 R CNN
+F 1 "D" V 5205 3671 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 5250 3750 50  0001 C CNN
+F 3 "~" H 5250 3750 50  0001 C CNN
+	1    5250 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 5F5A5386
+P 5250 3100
+F 0 "D6" V 5296 3021 50  0000 R CNN
+F 1 "D" V 5205 3021 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 5250 3100 50  0001 C CNN
+F 3 "~" H 5250 3100 50  0001 C CNN
+	1    5250 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 5F5A5876
+P 5250 2450
+F 0 "D5" V 5296 2371 50  0000 R CNN
+F 1 "D" V 5205 2371 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 5250 2450 50  0001 C CNN
+F 3 "~" H 5250 2450 50  0001 C CNN
+	1    5250 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 5F5A5CD0
+P 5900 2450
+F 0 "D9" V 5946 2371 50  0000 R CNN
+F 1 "D" V 5855 2371 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 5900 2450 50  0001 C CNN
+F 3 "~" H 5900 2450 50  0001 C CNN
+	1    5900 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 5F5A62CE
+P 5900 3100
+F 0 "D10" V 5946 3021 50  0000 R CNN
+F 1 "D" V 5855 3021 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 5900 3100 50  0001 C CNN
+F 3 "~" H 5900 3100 50  0001 C CNN
+	1    5900 3100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D11
+U 1 1 5F5A66BF
+P 5900 3750
+F 0 "D11" V 5946 3671 50  0000 R CNN
+F 1 "D" V 5855 3671 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 5900 3750 50  0001 C CNN
+F 3 "~" H 5900 3750 50  0001 C CNN
+	1    5900 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D12
+U 1 1 5F5A6ADD
+P 5900 4400
+F 0 "D12" V 5946 4321 50  0000 R CNN
+F 1 "D" V 5855 4321 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 5900 4400 50  0001 C CNN
+F 3 "~" H 5900 4400 50  0001 C CNN
+	1    5900 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D20
+U 1 1 5F5A7B3D
+P 8050 4400
+F 0 "D20" V 8096 4321 50  0000 R CNN
+F 1 "D" V 8005 4321 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 8050 4400 50  0001 C CNN
+F 3 "~" H 8050 4400 50  0001 C CNN
+	1    8050 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D17
+U 1 1 5F5A75E9
+P 7400 4400
+F 0 "D17" V 7446 4321 50  0000 R CNN
+F 1 "D" V 7355 4321 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 7400 4400 50  0001 C CNN
+F 3 "~" H 7400 4400 50  0001 C CNN
+	1    7400 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 5F5A6FC8
+P 6750 4400
+F 0 "D14" V 6796 4321 50  0000 R CNN
+F 1 "D" V 6705 4321 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 6750 4400 50  0001 C CNN
+F 3 "~" H 6750 4400 50  0001 C CNN
+	1    6750 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW21
+U 1 1 5F59F26E
+P 7850 4250
+F 0 "SW21" H 7850 4535 50  0000 C CNN
+F 1 "SW_Push" H 7850 4444 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 7850 4450 50  0001 C CNN
+F 3 "~" H 7850 4450 50  0001 C CNN
+	1    7850 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW19
+U 1 1 5F59EB52
+P 7200 4250
+F 0 "SW19" H 7200 4535 50  0000 C CNN
+F 1 "SW_Push" H 7200 4444 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 7200 4450 50  0001 C CNN
+F 3 "~" H 7200 4450 50  0001 C CNN
+	1    7200 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW16
+U 1 1 5F59DB8E
+P 6550 4250
+F 0 "SW16" H 6550 4535 50  0000 C CNN
+F 1 "SW_Push" H 6550 4444 50  0000 C CNN
+F 2 "TheKeebrary:MX_PCB_100H" H 6550 4450 50  0001 C CNN
+F 3 "~" H 6550 4450 50  0001 C CNN
+	1    6550 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8050 4550 7400 4550
+Wire Wire Line
+	7400 4550 6750 4550
+Connection ~ 7400 4550
+Connection ~ 6750 4550
+Wire Wire Line
+	5900 4550 5250 4550
+Wire Wire Line
+	5250 4550 4600 4550
+Connection ~ 5250 4550
+Wire Wire Line
+	4600 3900 5250 3900
+Wire Wire Line
+	5250 3900 5900 3900
+Connection ~ 5250 3900
+Wire Wire Line
+	5900 3250 5250 3250
+Wire Wire Line
+	5250 3250 4600 3250
+Connection ~ 5250 3250
+Wire Wire Line
+	4600 2600 5250 2600
+Wire Wire Line
+	5250 2600 5900 2600
+Connection ~ 5250 2600
+Wire Wire Line
+	4600 2600 4100 2600
+Connection ~ 4600 2600
+Wire Wire Line
+	4600 3250 4100 3250
+Connection ~ 4600 3250
+Wire Wire Line
+	4600 3900 4100 3900
+Connection ~ 4600 3900
+Wire Wire Line
+	4600 4550 4100 4550
+Connection ~ 4600 4550
+Wire Wire Line
+	4200 2300 4200 1900
+Connection ~ 4200 2300
+Wire Wire Line
+	4850 2300 4850 1900
+Connection ~ 4850 2300
+Wire Wire Line
+	5500 2300 5500 1900
+Connection ~ 5500 2300
+$Comp
+L Switch:SW_Push SW1
+U 1 1 5F5B5815
+P 3250 3100
+F 0 "SW1" H 3250 3385 50  0000 C CNN
+F 1 "Reset" H 3250 3294 50  0000 C CNN
+F 2 "Buttons_Switches_THT:SW_PUSH_6mm" H 3250 3300 50  0001 C CNN
+F 3 "~" H 3250 3300 50  0001 C CNN
+	1    3250 3100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2800 3100 3050 3100
+$Comp
+L power:GND #PWR0101
+U 1 1 5F5B7614
+P 3450 3100
+F 0 "#PWR0101" H 3450 2850 50  0001 C CNN
+F 1 "GND" V 3455 2972 50  0000 R CNN
+F 2 "" H 3450 3100 50  0001 C CNN
+F 3 "" H 3450 3100 50  0001 C CNN
+	1    3450 3100
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5500 3600 5500 4250
+Wire Wire Line
+	4850 3600 4850 4250
+Wire Wire Line
+	4200 3600 4200 4250
+Wire Wire Line
+	4200 2950 4200 3600
+Connection ~ 4200 3600
+Wire Wire Line
+	4850 2950 4850 3600
+Connection ~ 4850 3600
+Wire Wire Line
+	5500 2950 5500 3600
+Connection ~ 5500 3600
+Wire Wire Line
+	5500 2300 5500 2950
+Connection ~ 5500 2950
+Wire Wire Line
+	4850 2300 4850 2950
+Connection ~ 4850 2950
+Wire Wire Line
+	4200 2300 4200 2950
+Connection ~ 4200 2950
+Text HLabel 4200 1900 1    50   Input ~ 0
+COL_A
+Text HLabel 4850 1900 1    50   Input ~ 0
+COL_B
+Text HLabel 5500 1900 1    50   Input ~ 0
+COL_C
+Text HLabel 6350 1900 1    50   Input ~ 0
+COL_D
+Text HLabel 7000 1900 1    50   Input ~ 0
+COL_E
+Text HLabel 7650 1900 1    50   Input ~ 0
+COL_F
+Text HLabel 4100 2600 0    50   Input ~ 0
+ROW_A
+Text HLabel 4100 3250 0    50   Input ~ 0
+ROW_B
+Text HLabel 4100 3900 0    50   Input ~ 0
+ROW_C
+Text HLabel 4100 4550 0    50   Input ~ 0
+ROW_D
+Text HLabel 1400 3500 0    50   Input ~ 0
+ROW_A
+Text HLabel 1400 3600 0    50   Input ~ 0
+ROW_B
+Text HLabel 1400 3700 0    50   Input ~ 0
+ROW_C
+Text HLabel 1400 3800 0    50   Input ~ 0
+ROW_D
+Text HLabel 1400 3900 0    50   Input ~ 0
+COL_A
+Text HLabel 1400 4000 0    50   Input ~ 0
+COL_B
+Text HLabel 2800 4000 2    50   Input ~ 0
+COL_C
+Text HLabel 2800 3900 2    50   Input ~ 0
+COL_D
+Text HLabel 2800 3800 2    50   Input ~ 0
+COL_E
+Text HLabel 2800 3700 2    50   Input ~ 0
+COL_F
+Text HLabel 2800 3600 2    50   Input ~ 0
+ROT1_A
+Text HLabel 2800 3500 2    50   Input ~ 0
+ROT1_B
+$Comp
+L power:GND #PWR0102
+U 1 1 5F5EB405
+P 2800 3000
+F 0 "#PWR0102" H 2800 2750 50  0001 C CNN
+F 1 "GND" V 2805 2872 50  0000 R CNN
+F 2 "" H 2800 3000 50  0001 C CNN
+F 3 "" H 2800 3000 50  0001 C CNN
+	1    2800 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:VCC #PWR0103
+U 1 1 5F5EBD74
+P 2800 3200
+F 0 "#PWR0103" H 2800 3050 50  0001 C CNN
+F 1 "VCC" V 2817 3328 50  0000 L CNN
+F 2 "" H 2800 3200 50  0001 C CNN
+F 3 "" H 2800 3200 50  0001 C CNN
+	1    2800 3200
+	0    1    1    0   
+$EndComp
+Text HLabel 1400 3300 0    50   Input ~ 0
+SCL
+Text HLabel 1400 3400 0    50   Input ~ 0
+SDA
+$Comp
+L power:GND #PWR0104
+U 1 1 5F5ED81B
+P 1400 3100
+F 0 "#PWR0104" H 1400 2850 50  0001 C CNN
+F 1 "GND" V 1405 2972 50  0000 R CNN
+F 2 "" H 1400 3100 50  0001 C CNN
+F 3 "" H 1400 3100 50  0001 C CNN
+	1    1400 3100
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5F5EE4B0
+P 1400 3200
+F 0 "#PWR0105" H 1400 2950 50  0001 C CNN
+F 1 "GND" V 1405 3072 50  0000 R CNN
+F 2 "" H 1400 3200 50  0001 C CNN
+F 3 "" H 1400 3200 50  0001 C CNN
+	1    1400 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Rotary_Encoder_Switch SW15
+U 1 1 5F5EEC46
+P 6550 3250
+F 0 "SW15" H 6550 3617 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 6550 3526 50  0000 C CNN
+F 2 "Keebio_Parts:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 6400 3410 50  0001 C CNN
+F 3 "~" H 6550 3510 50  0001 C CNN
+	1    6550 3250
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5900 4550 6750 4550
+Connection ~ 5900 4550
+Wire Wire Line
+	5900 3900 6800 3900
+Connection ~ 5900 3900
+Connection ~ 5900 2600
+$Comp
+L Device:D D15
+U 1 1 5F601314
+P 6800 3750
+F 0 "D15" V 6846 3671 50  0000 R CNN
+F 1 "D" V 6755 3671 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 6800 3750 50  0001 C CNN
+F 3 "~" H 6800 3750 50  0001 C CNN
+	1    6800 3750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6450 2950 6350 2950
+Connection ~ 6350 2950
+Wire Wire Line
+	6350 2950 6350 4250
+Wire Wire Line
+	6650 2950 6800 2950
+Wire Wire Line
+	6800 2950 6800 3600
+Text HLabel 6650 3550 3    50   Input ~ 0
+ROT1_B
+Text HLabel 6450 3550 3    50   Input ~ 0
+ROT1_A
+$Comp
+L power:GND #PWR0106
+U 1 1 5F607E28
+P 6550 3550
+F 0 "#PWR0106" H 6550 3300 50  0001 C CNN
+F 1 "GND" H 6555 3377 50  0000 C CNN
+F 2 "" H 6550 3550 50  0001 C CNN
+F 3 "" H 6550 3550 50  0001 C CNN
+	1    6550 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x04_Female J1
+U 1 1 5F60B0A1
+P 2050 1900
+F 0 "J1" V 1988 1612 50  0000 R CNN
+F 1 "Conn_01x04_Female" V 1897 1612 50  0000 R CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm" H 2050 1900 50  0001 C CNN
+F 3 "~" H 2050 1900 50  0001 C CNN
+	1    2050 1900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 5F60E0F5
+P 2250 2100
+F 0 "#PWR0108" H 2250 1850 50  0001 C CNN
+F 1 "GND" H 2255 1927 50  0000 C CNN
+F 2 "" H 2250 2100 50  0001 C CNN
+F 3 "" H 2250 2100 50  0001 C CNN
+	1    2250 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0109
+U 1 1 5F60EBB5
+P 1950 2100
+F 0 "#PWR0109" H 1950 1950 50  0001 C CNN
+F 1 "VCC" H 1968 2273 50  0000 C CNN
+F 2 "" H 1950 2100 50  0001 C CNN
+F 3 "" H 1950 2100 50  0001 C CNN
+	1    1950 2100
+	-1   0    0    1   
+$EndComp
+Text HLabel 2050 2100 3    50   Input ~ 0
+SCL
+Text HLabel 2150 2100 3    50   Input ~ 0
+SDA
+Wire Wire Line
+	6350 1900 6350 2950
+Wire Wire Line
+	5900 2600 8050 2600
+Wire Wire Line
+	7650 1900 7650 4250
+Wire Wire Line
+	7000 1900 7000 4250
+$EndSCHEMATC
