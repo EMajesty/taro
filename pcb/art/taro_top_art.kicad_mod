@@ -1,4 +1,4 @@
-(module svg2mod (layer F.Cu) (tedit 5F5CDBD3)
+(module svg2mod (layer F.Cu) (tedit 5F5CF4B9)
   (attr virtual)
   (descr "Imported from ../taro/pcb/art/taro_top_art.svg")
   (tags svg2mod)
