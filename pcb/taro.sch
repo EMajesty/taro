@@ -19,7 +19,7 @@ U 1 1 5F5954A3
 P 2100 3650
 F 0 "U1" H 2100 4687 60  0000 C CNN
 F 1 "ProMicro" H 2100 4581 60  0000 C CNN
-F 2 "Keebio_Parts:ArduinoProMicro" H 2200 2600 60  0001 C CNN
+F 2 "Keebio_Parts:ArduinoProMicro-TopSide" H 2200 2600 60  0001 C CNN
 F 3 "" H 2200 2600 60  0000 C CNN
 	1    2100 3650
 	1    0    0    -1  
@@ -541,57 +541,35 @@ F 3 "" H 1400 3200 50  0001 C CNN
 	1    1400 3200
 	0    1    1    0   
 $EndComp
-$Comp
-L Device:Rotary_Encoder_Switch SW14
-U 1 1 5F5EEC46
-P 6550 3250
-F 0 "SW14" H 6550 3617 50  0000 C CNN
-F 1 "Rotary_Encoder_Switch" H 6550 3526 50  0000 C CNN
-F 2 "Keebio_Parts:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 6400 3410 50  0001 C CNN
-F 3 "~" H 6550 3510 50  0001 C CNN
-	1    6550 3250
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	5900 4550 6750 4550
 Connection ~ 5900 4550
 Wire Wire Line
-	5900 3900 6800 3900
+	5900 3900 6850 3900
 Connection ~ 5900 3900
 Connection ~ 5900 2600
 $Comp
 L Device:D D14
 U 1 1 5F601314
-P 6800 3750
-F 0 "D14" V 6846 3671 50  0000 R CNN
-F 1 "D" V 6755 3671 50  0000 R CNN
-F 2 "Keebio_Parts:Diode" H 6800 3750 50  0001 C CNN
-F 3 "~" H 6800 3750 50  0001 C CNN
-	1    6800 3750
+P 6850 3750
+F 0 "D14" V 6896 3671 50  0000 R CNN
+F 1 "D" V 6805 3671 50  0000 R CNN
+F 2 "Keebio_Parts:Diode" H 6850 3750 50  0001 C CNN
+F 3 "~" H 6850 3750 50  0001 C CNN
+	1    6850 3750
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	6450 2950 6350 2950
-Connection ~ 6350 2950
-Wire Wire Line
-	6350 2950 6350 4250
-Wire Wire Line
-	6650 2950 6800 2950
-Wire Wire Line
-	6800 2950 6800 3600
-Text HLabel 6650 3550 3    50   Input ~ 0
+Text HLabel 6550 3300 3    50   Input ~ 0
 ROT1_B
-Text HLabel 6450 3550 3    50   Input ~ 0
-ROT1_A
 $Comp
 L power:GND #PWR08
 U 1 1 5F607E28
-P 6550 3550
-F 0 "#PWR08" H 6550 3300 50  0001 C CNN
-F 1 "GND" H 6555 3377 50  0000 C CNN
-F 2 "" H 6550 3550 50  0001 C CNN
-F 3 "" H 6550 3550 50  0001 C CNN
-	1    6550 3550
+P 6650 3300
+F 0 "#PWR08" H 6650 3050 50  0001 C CNN
+F 1 "GND" H 6655 3127 50  0000 C CNN
+F 2 "" H 6650 3300 50  0001 C CNN
+F 3 "" H 6650 3300 50  0001 C CNN
+	1    6650 3300
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -632,11 +610,33 @@ SCL
 Text HLabel 2150 2100 3    50   Input ~ 0
 SDA
 Wire Wire Line
-	6350 1900 6350 2950
-Wire Wire Line
 	5900 2600 8050 2600
 Wire Wire Line
 	7650 1900 7650 4250
 Wire Wire Line
 	7000 1900 7000 4250
+$Comp
+L avp:PEC16-S SW14
+U 1 1 5F5DF600
+P 6500 3000
+F 0 "SW14" V 7137 2692 60  0000 C CNN
+F 1 "PEC16-S" V 7031 2692 60  0000 C CNN
+F 2 "Avp:PEC16-4xxxF-Sxxxx" H 6500 3000 60  0001 C CNN
+F 3 "" H 6500 3000 60  0000 C CNN
+	1    6500 3000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6350 1900 6350 3650
+Wire Wire Line
+	6850 3600 6850 3300
+Text HLabel 6450 3300 3    50   Input ~ 0
+ROT1_A
+Wire Wire Line
+	6750 3300 6750 3650
+Wire Wire Line
+	6750 3650 6350 3650
+Connection ~ 6350 3650
+Wire Wire Line
+	6350 3650 6350 4250
 $EndSCHEMATC

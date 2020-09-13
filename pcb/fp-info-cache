@@ -1,4 +1,837 @@
-178856296373978
+363212206844871
+Avp
+CP_Tantalum_Case-B_EIA-3528-21_Reflow
+Tantalum capacitor, Case B, EIA 3528-21, 3.5x2.8x1.9mm, Reflow soldering footprint
+capacitor tantalum smd
+0
+2
+2
+Avp
+CP_Tantalum_Case-D_EIA-7343-31_Reflow
+Tantalum capacitor, Case D, EIA 7343-31, 7.3x4.3x2.8mm, Reflow soldering footprint
+capacitor tantalum smd
+0
+2
+2
+Avp
+CU026
+CU026
+TIC32 backlight CU026
+0
+2
+2
+Avp
+C_0201
+SMT resistor, 0201
+resistor 0201
+0
+2
+2
+Avp
+C_0402
+Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
+capacitor 0402
+0
+2
+2
+Avp
+C_0603
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+Avp
+C_0805
+Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)
+capacitor 0805
+0
+2
+2
+Avp
+DB714
+
+
+0
+6
+6
+Avp
+DFN-10-1EP_2x2mm_Pitch0.40mm
+
+
+0
+10
+10
+Avp
+DSK3R3H-224-HL
+
+
+0
+2
+2
+Avp
+ELNA_DSK
+ELNA DSK supercap
+
+0
+2
+2
+Avp
+EM14-xxx-xxx-L
+
+EM14 optical encoder
+0
+8
+6
+Avp
+Edge_Line_50Ohm_1.6
+
+EDGE Line 50 Ohm for 1mm FR4 with 0.7 spacing W=1.6
+0
+5
+5
+Avp
+Edge_Line_50Ohm_3.2
+
+EDGE Line 50 Ohm for 1mm FR4 with 0.7 spacing W=3.2
+0
+5
+5
+Avp
+ExtPad
+
+
+0
+1
+1
+Avp
+ExtPad_4,5x10
+
+
+0
+1
+1
+Avp
+ExtPad_TH_1.0
+
+
+0
+1
+1
+Avp
+ExtPad_TH_3.2
+
+
+0
+1
+1
+Avp
+Filter433_1
+
+
+0
+6
+6
+Avp
+ICSP_AVP_SMD
+Avp proprietary ICSP connector
+ICSP_AVP ICSP AVP
+0
+5
+5
+Avp
+ICSP_AVP_TH
+Avp proprietary ICSP connector
+ICSP_AVP ICSP AVP
+0
+5
+5
+Avp
+IPX
+
+
+0
+3
+3
+Avp
+KEM-3
+Reed KEM-3
+
+0
+3
+3
+Avp
+KEM-3-noNO
+Reed KEM-3 -- without NO pin
+
+0
+2
+2
+Avp
+LED_0805
+LED 0805 smd package
+LED led 0805 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+Avp
+LFCSP_VQ-56
+56-Lead Lead Frame Chip Scale Package [LFCSP_VQ]
+
+0
+57
+57
+Avp
+LFCSP_VQ_48_3
+
+
+0
+49
+49
+Avp
+MA412-500M02
+
+
+0
+2
+2
+Avp
+MA412-500M03
+
+
+0
+3
+3
+Avp
+Microstrip_port_1_20
+
+
+0
+1
+1
+Avp
+PEC12-4xxxF-Sxxxx
+
+
+0
+7
+7
+Avp
+PEC12-4xxxF-Sxxxx-REV
+
+
+0
+7
+5
+Avp
+PEC16-4xxxF-Sxxxx
+
+
+0
+7
+7
+Avp
+PINHEAD_1
+1.27 pinhead connector
+PINHEAD 1.27
+0
+3
+3
+Avp
+PINHEAD_1.27_3
+1.27 pinhead connector
+PINHEAD 1.27
+0
+3
+3
+Avp
+PINHEAD_1.27_3_SMD
+1.27 pinhead connector SMD
+PINHEAD 1.27
+0
+3
+3
+Avp
+PINHEAD_1.27_4_M
+1.27 pinhead connector
+PINHEAD 1.27
+0
+4
+4
+Avp
+PINHEAD_1.27_4_M_SMD
+1.27 pinhead connector SMD
+PINHEAD 1.27
+0
+4
+4
+Avp
+PINHEAD_1.27_5_M_SMD
+1.27 pinhead connector SMD
+PINHEAD 1.27
+0
+5
+5
+Avp
+PINHEAD_1.27_14
+1.27 pinhead connector
+PINHEAD 1.27
+0
+14
+14
+Avp
+PINHEAD_1.27_14_SMD
+1.27 pinhead connector SMD
+PINHEAD 1.27
+0
+14
+14
+Avp
+PINHEAD_1_SMD
+2.54 pinhead connector
+PINHEAD 2.54
+0
+1
+1
+Avp
+Pads_diffsides
+Two pads in different sides
+
+0
+2
+2
+Avp
+PatchAntenna25
+
+
+0
+1
+1
+Avp
+PowerFLAT
+
+PowerFLAT FLAT
+0
+3
+3
+Avp
+R_0201
+SMT resistor, 0201
+resistor 0201
+0
+2
+2
+Avp
+R_0402
+Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0402
+0
+2
+2
+Avp
+R_0603
+Resistor SMD 0603, reflow soldering
+resistor 0603
+0
+2
+2
+Avp
+SH4028
+
+
+0
+2
+2
+Avp
+SIM900
+
+
+0
+68
+68
+Avp
+SIM_Block_Connector
+
+
+0
+6
+6
+Avp
+SMA_EDGE
+
+SMA EDGE Connector
+0
+5
+5
+Avp
+SMD03225C4
+
+
+0
+4
+4
+Avp
+SOIC-8-N
+Module Narrow CMS SOJ 8 pins large
+CMS SOJ
+0
+8
+8
+Avp
+SOIC-8_3.9x4.9mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+Avp
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+Avp
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+Avp
+SOT-363
+SOT363
+
+0
+6
+6
+Avp
+SOT23
+
+SOT23
+0
+3
+3
+Avp
+SW_SKEYAHA010
+
+
+0
+4
+4
+Avp
+SimPad
+
+
+0
+1
+1
+Avp
+TIC32
+TIC32
+TIC32
+0
+7
+7
+Avp
+TIC234A
+TIC234A
+TIC234A
+0
+14
+14
+Avp
+TIC234A_BL
+
+
+0
+2
+2
+Avp
+TIC234A_Narrow
+TIC234A
+TIC234A
+0
+14
+14
+Avp
+TSOT-23-6_MK06A
+6-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_6_05-08-1636.pdf
+TSOT-23-6 MK06A TSOT-6
+0
+6
+6
+Avp
+TZC03
+
+Trimmer Murata
+0
+2
+2
+Avp
+TZVX2
+
+Trimmer Murata
+0
+2
+2
+Avp
+Test
+
+Test
+0
+4
+4
+Avp
+Texas_R-PWQFN-N28_EP2.1x3.1mm
+QFN, 28 Pin (http://www.ti.com/lit/ds/symlink/tps51363.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+33
+29
+Avp
+Texas_R-PWQFN-N28_EP2.1x3.1mm_ThermalVias
+QFN, 28 Pin (http://www.ti.com/lit/ds/symlink/tps51363.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+43
+29
+Avp
+Texas_RGE0024H_EP2.7x2.7mm
+Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=42&zoom=200,-13,779), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+Texas QFN DFN_QFN
+0
+29
+25
+Avp
+Texas_RGE0024H_EP2.7x2.7mm_ThermalVias
+Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=42&zoom=200,-13,779), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+Texas QFN DFN_QFN
+0
+39
+25
+Avp
+Texas_RUM0016A
+16 Pin WQFN - 4x4x0.8 mm Body; (see Texas Instruments Package Specification RUM0016A)
+WQFN 0.65
+0
+20
+17
+Avp
+Texas_RWH0032A
+Texas Instruments, RWH0032A, 8x8x0.9mm (http://www.ti.com/lit/ds/snosd10c/snosd10c.pdf)
+ti rwh0032a
+0
+71
+33
+Avp
+Texas_RWH0032A_ThermalVias
+Texas Instruments, RWH0032A, 8x8x0.9mm (http://www.ti.com/lit/ds/snosd10c/snosd10c.pdf)
+ti rwh0032a
+0
+94
+33
+Avp
+Texas_R_PUQFN-N12
+Texas_R_PUQFN-N12 http://www.ti.com/lit/ds/symlink/txb0104.pdf
+Texas_R_PUQFN-N12
+0
+13
+12
+Avp
+Texas_S-PVQFN-N14
+Texas_S-PVQFN-N14  http://www.ti.com/lit/ds/symlink/txb0104.pdf
+Texas_S-PVQFN-N14_4.3x4.3_Pitch0.5mm_ThermalPad
+0
+19
+15
+Avp
+Texas_S-PVQFN-N14_ThermalVias
+Texas_S-PVQFN-N14_ThermalVias  http://www.ti.com/lit/ds/symlink/txb0104.pdf
+Texas_S-PVQFN-N14_ThermalVias
+0
+24
+15
+Avp
+Texas_S-PVQFN-N16_EP2.7x2.7mm
+QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/msp430g2001.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+26
+17
+Avp
+Texas_S-PVQFN-N16_EP2.7x2.7mm_ThermalVias
+QFN, 16 Pin (http://www.ti.com/lit/ds/symlink/msp430g2001.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+31
+17
+Avp
+Texas_S-PVQFN-N20_EP2.4x2.4mm
+QFN, 20 Pin (http://www.ti.com/lit/ds/symlink/cc1101.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+25
+21
+Avp
+Texas_S-PVQFN-N20_EP2.4x2.4mm_ThermalVias
+QFN, 20 Pin (http://www.ti.com/lit/ds/symlink/cc1101.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+35
+21
+Avp
+Texas_S-PVQFN-N20_EP2.7x2.7mm
+20-Pin Plastic Quad Flatpack No-Lead Package, Body 4.0x4.0x0.9mm, Pad 3.52x2.62mm, Texas Instruments (see http://www.ti.com/lit/gpn/drv8662)
+RGP QFN 0.5mm
+0
+45
+21
+Avp
+Texas_S-PVQFN-N20_EP2.7x2.7mm_ThermalVias
+20-Pin Plastic Quad Flatpack No-Lead Package, Body 4.0x4.0x0.9mm, Pad 3.52x2.62mm, Texas Instruments (see http://www.ti.com/lit/gpn/drv8662)
+RGP QFN 0.5mm
+0
+56
+21
+Avp
+Texas_S-PVQFN-N24_EP2.1x2.1mm
+QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/msp430fr5720.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+29
+25
+Avp
+Texas_S-PVQFN-N24_EP2.1x2.1mm_ThermalVias
+QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/msp430fr5720.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+39
+25
+Avp
+Texas_S-PVQFN-N32_EP3.45x3.45mm
+QFN, 32 Pin (http://www.ti.com/lit/ds/symlink/msp430f1122.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+42
+33
+Avp
+Texas_S-PVQFN-N32_EP3.45x3.45mm_ThermalVias
+QFN, 32 Pin (http://www.ti.com/lit/ds/symlink/msp430f1122.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+59
+33
+Avp
+Texas_S-PVQFN-N36
+36 pin S-PVQFN Texas http://www.ti.com/lit/ds/slvsba5d/slvsba5d.pdf
+QFN-0.5 36 QFN 6x6 PVQFN Texas
+0
+46
+37
+Avp
+Texas_S-PVQFN-N40_EP2.9x2.9mm
+40-Pin Plastic Quad Flatpack No-Lead Package, Body 6.0x6.0x0.9mm, Pad 2.9x2.9mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/msp430fr5731.pdf)
+RHA QFN 0.5mm
+0
+85
+41
+Avp
+Texas_S-PVQFN-N40_EP2.9x2.9mm_ThermalVias
+40-Pin Plastic Quad Flatpack No-Lead Package, Body 6.0x6.0x0.9mm, Pad 2.9x2.9mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/msp430fr5731.pdf)
+RHA QFN 0.5mm
+0
+95
+41
+Avp
+Texas_S-PVQFN-N40_EP3.52x2.62mm
+40-Pin Plastic Quad Flatpack No-Lead Package, Body 6.0x6.0x0.9mm, Pad 3.52x2.62mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/drv8308.pdf)
+RHA QFN 0.5mm
+0
+85
+41
+Avp
+Texas_S-PVQFN-N40_EP3.52x2.62mm_ThermalVias
+40-Pin Plastic Quad Flatpack No-Lead Package, Body 6.0x6.0x0.9mm, Pad 3.52x2.62mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/drv8308.pdf)
+RHA QFN 0.5mm
+0
+95
+41
+Avp
+Texas_S-PVQFN-N40_EP4.6x4.6mm_ThermalVias
+40-Pin Plastic Quad Flatpack No-Lead Package, Body 6.0x6.0x0.9mm, Pad 4.6x4.6mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/dac7750.pdf)
+RHA QFN 0.5mm
+0
+107
+41
+Avp
+Texas_S-PVQFN-N40_EP4.15x4.15mm
+40-Pin Plastic Quad Flatpack No-Lead Package, Body 6.0x6.0x0.9mm, Pad 4.15x4.15mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/msp430g2755.pdf)
+RHA QFN 0.5mm
+0
+90
+41
+Avp
+Texas_S-PVQFN-N40_EP4.15x4.15mm_ThermalVias
+40-Pin Plastic Quad Flatpack No-Lead Package, Body 6.0x6.0x0.9mm, Pad 4.15x4.15mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/msp430g2755.pdf)
+RHA QFN 0.5mm
+0
+107
+41
+Avp
+Texas_S-PVQFN-N48_EP5.15x5.15mm
+QFN, 48 Pin (http://www.ti.com/lit/ds/symlink/msp430f5232.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+65
+49
+Avp
+Texas_S-PVQFN-N48_EP5.15x5.15mm_ThermalVias
+QFN, 48 Pin (http://www.ti.com/lit/ds/symlink/msp430f5232.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+111
+49
+Avp
+Texas_S-PVQFN-N64_EP4.25x4.25mm
+QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+69
+65
+Avp
+Texas_S-PVQFN-N64_EP4.25x4.25mm_ThermalVias
+QFN, 64 Pin (http://www.ti.com/lit/ds/symlink/msp430f5217.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+127
+65
+Avp
+Texas_S-PWQFN-N20
+20-Pin Plastic Quad Flatpack No-Lead Package, Body 3.0x3.0x0.8mm, Texas Instruments (http://www.ti.com/lit/ds/symlink/tps22993.pdf)
+QFN 0.4
+0
+24
+20
+Avp
+Texas_S-PWSON-N6
+6-Lead Plastic Dual Flat 2x2mm S-PWSON-N6 DFN Texas Instruments http://www.ti.com/lit/ds/symlink/tps717.pdf
+DFN 0.65 S-PWSON-N6 Texas 2x2mm
+0
+8
+7
+Avp
+Texas_S-PWSON-N6_ThermalVias
+6-Lead Plastic Dual Flat 2x2mm S-PWSON-N6 DFN Texas Instruments http://www.ti.com/lit/ds/symlink/tps717.pdf
+DFN 0.65 S-PWSON-N6 Texas 2x2mm
+0
+11
+7
+Avp
+Texas_VQFN-RGR-20
+http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=MPQF239&fileType=pdf
+QFN 0.5 VQFN
+0
+24
+21
+Avp
+Texas_VQFN-RGW-20
+http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=MPQF122&fileType=pdf
+QFN 0.65 VQFN
+0
+24
+21
+Avp
+Texas_VQFN-RHL-20
+http://www.ti.com/lit/ds/symlink/bq51050b.pdf
+RHL0020A
+0
+33
+21
+Avp
+Texas_VQFN-RHL-20_ThermalVias
+http://www.ti.com/lit/ds/symlink/bq51050b.pdf
+RHL0020A
+0
+41
+21
+Avp
+Texas_WQFN-MR-100_3x3-DapStencil
+http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=mpqf258&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=LPPD235&fileType=pdf
+MultiRow QFN
+0
+113
+105
+Avp
+Texas_WQFN-MR-100_ThermalVias_3x3-DapStencil
+http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=szza059&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=mpqf258&fileType=pdf,http://www.ti.com/general/docs/lit/getliterature.tsp?baseLiteratureNumber=LPPD235&fileType=pdf
+MultiRow QFN
+0
+126
+105
+Avp
+UBLOX-MAX-M8
+
+
+0
+18
+18
+Avp
+USB-MINI-B-vert-HW-MU-5F-23
+
+
+0
+7
+7
+Avp
+VQFN-15
+
+
+0
+15
+15
+Avp
+XTAL-0532
+
+XTAL QUARTZ
+0
+4
+4
+Avp
+XTAL-0705-3
+
+XTAL QUARTZ
+0
+4
+4
+Avp
+XTAL-3215
+
+XTAL QUARTZ
+0
+2
+2
+Avp
+export-TIC32
+PIN HEADER
+PIN HEADER
+0
+7
+7
+Avp
+sot343
+SOT343
+
+0
+4
+4
+Avp
+uMAX
+
+
+0
+10
+10
 Battery_Holders
 Bulgin_BX0036_1xC
 
@@ -53410,14 +54243,14 @@ SolderWirePad_single_SMD_5x10mm
 0
 0
 art
-bottom_art
+logo
 
 
 0
 0
 0
 art
-top_art
+taro
 
 
 0
