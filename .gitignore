@@ -1,5 +1,8 @@
 *.psd
 
+# Ignore personal BOM
+*.xlsx
+
 # Temporary files
 *.000
 *.bak

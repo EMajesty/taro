@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Keebio:ProMicro U1
+L taro-rescue:ProMicro-Keebio U1
 U 1 1 5F5954A3
 P 2100 3650
 F 0 "U1" H 2100 4687 60  0000 C CNN
@@ -575,39 +575,39 @@ $EndComp
 $Comp
 L Connector:Conn_01x04_Female J1
 U 1 1 5F60B0A1
-P 2050 1900
-F 0 "J1" V 1988 1612 50  0000 R CNN
-F 1 "Conn_01x04_Female" V 1897 1612 50  0000 R CNN
-F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm" H 2050 1900 50  0001 C CNN
-F 3 "~" H 2050 1900 50  0001 C CNN
-	1    2050 1900
+P 1550 7000
+F 0 "J1" V 1488 6712 50  0000 R CNN
+F 1 "Conn_01x04_Female" V 1397 6712 50  0000 R CNN
+F 2 "Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm" H 1550 7000 50  0001 C CNN
+F 3 "~" H 1550 7000 50  0001 C CNN
+	1    1550 7000
 	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR04
 U 1 1 5F60E0F5
-P 2250 2100
-F 0 "#PWR04" H 2250 1850 50  0001 C CNN
-F 1 "GND" H 2255 1927 50  0000 C CNN
-F 2 "" H 2250 2100 50  0001 C CNN
-F 3 "" H 2250 2100 50  0001 C CNN
-	1    2250 2100
+P 1750 7200
+F 0 "#PWR04" H 1750 6950 50  0001 C CNN
+F 1 "GND" H 1755 7027 50  0000 C CNN
+F 2 "" H 1750 7200 50  0001 C CNN
+F 3 "" H 1750 7200 50  0001 C CNN
+	1    1750 7200
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:VCC #PWR03
 U 1 1 5F60EBB5
-P 1950 2100
-F 0 "#PWR03" H 1950 1950 50  0001 C CNN
-F 1 "VCC" H 1968 2273 50  0000 C CNN
-F 2 "" H 1950 2100 50  0001 C CNN
-F 3 "" H 1950 2100 50  0001 C CNN
-	1    1950 2100
+P 1450 7200
+F 0 "#PWR03" H 1450 7050 50  0001 C CNN
+F 1 "VCC" H 1468 7373 50  0000 C CNN
+F 2 "" H 1450 7200 50  0001 C CNN
+F 3 "" H 1450 7200 50  0001 C CNN
+	1    1450 7200
 	-1   0    0    1   
 $EndComp
-Text HLabel 2050 2100 3    50   Input ~ 0
+Text HLabel 1550 7200 3    50   Input ~ 0
 SCL
-Text HLabel 2150 2100 3    50   Input ~ 0
+Text HLabel 1650 7200 3    50   Input ~ 0
 SDA
 Wire Wire Line
 	5900 2600 8050 2600
@@ -642,45 +642,45 @@ Wire Wire Line
 $Comp
 L Mechanical:MountingHole H1
 U 1 1 5F62EDEA
-P 1700 4300
-F 0 "H1" H 1800 4346 50  0000 L CNN
-F 1 "MountingHole" H 1800 4255 50  0000 L CNN
-F 2 "Keyboard_Parts:MountingHole_M2" H 1700 4300 50  0001 C CNN
-F 3 "~" H 1700 4300 50  0001 C CNN
-	1    1700 4300
+P 1100 5750
+F 0 "H1" H 1200 5796 50  0000 L CNN
+F 1 "MountingHole" H 1200 5705 50  0000 L CNN
+F 2 "Keyboard_Parts:MountingHole_M2" H 1100 5750 50  0001 C CNN
+F 3 "~" H 1100 5750 50  0001 C CNN
+	1    1100 5750
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H4
 U 1 1 5F6304BC
-P 1700 4900
-F 0 "H4" H 1800 4946 50  0000 L CNN
-F 1 "MountingHole" H 1800 4855 50  0000 L CNN
-F 2 "Keyboard_Parts:MountingHole_M2" H 1700 4900 50  0001 C CNN
-F 3 "~" H 1700 4900 50  0001 C CNN
-	1    1700 4900
+P 1100 6350
+F 0 "H4" H 1200 6396 50  0000 L CNN
+F 1 "MountingHole" H 1200 6305 50  0000 L CNN
+F 2 "Keyboard_Parts:MountingHole_M2" H 1100 6350 50  0001 C CNN
+F 3 "~" H 1100 6350 50  0001 C CNN
+	1    1100 6350
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H2
 U 1 1 5F630832
-P 1700 4500
-F 0 "H2" H 1800 4546 50  0000 L CNN
-F 1 "MountingHole" H 1800 4455 50  0000 L CNN
-F 2 "Keyboard_Parts:MountingHole_M2" H 1700 4500 50  0001 C CNN
-F 3 "~" H 1700 4500 50  0001 C CNN
-	1    1700 4500
+P 1100 5950
+F 0 "H2" H 1200 5996 50  0000 L CNN
+F 1 "MountingHole" H 1200 5905 50  0000 L CNN
+F 2 "Keyboard_Parts:MountingHole_M2" H 1100 5950 50  0001 C CNN
+F 3 "~" H 1100 5950 50  0001 C CNN
+	1    1100 5950
 	1    0    0    -1  
 $EndComp
 $Comp
 L Mechanical:MountingHole H3
 U 1 1 5F630BA4
-P 1700 4700
-F 0 "H3" H 1800 4746 50  0000 L CNN
-F 1 "MountingHole" H 1800 4655 50  0000 L CNN
-F 2 "Keyboard_Parts:MountingHole_M2" H 1700 4700 50  0001 C CNN
-F 3 "~" H 1700 4700 50  0001 C CNN
-	1    1700 4700
+P 1100 6150
+F 0 "H3" H 1200 6196 50  0000 L CNN
+F 1 "MountingHole" H 1200 6105 50  0000 L CNN
+F 2 "Keyboard_Parts:MountingHole_M2" H 1100 6150 50  0001 C CNN
+F 3 "~" H 1100 6150 50  0001 C CNN
+	1    1100 6150
 	1    0    0    -1  
 $EndComp
 $Comp
